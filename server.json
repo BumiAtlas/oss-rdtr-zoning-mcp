@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.BumiAtlas/oss-rdtr-zoning",
+  "title": "OSS RDTR Zoning (Indonesia)",
+  "description": "Indonesian OSS RDTR zoning: zone and sub-zone at a point, special provisions, area summaries.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/BumiAtlas/oss-rdtr-zoning-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://bumiatlas.com/mcp-docs",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://bumiatlas.com/mcp/zoning"
+    }
+  ]
+}
