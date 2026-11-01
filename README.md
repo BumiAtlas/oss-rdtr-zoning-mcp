@@ -19,7 +19,7 @@ The MCP connection is provided by BumiAtlas. This repository does not run a sepa
 https://bumiatlas.com/mcp/zoning
 ```
 
-Add it as a custom connector in any MCP client and sign in with Google. More: [bumiatlas.com/mcp-docs](https://bumiatlas.com/mcp-docs).
+Add it as a custom connector in any MCP client and sign in with Google. Tools, examples and data notes: [bumiatlas.com/mcp-docs/zoning](https://bumiatlas.com/mcp-docs/zoning).
 
 ## Tools
 

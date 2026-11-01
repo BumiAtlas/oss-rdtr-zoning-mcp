@@ -8,7 +8,7 @@
     "url": "https://github.com/BumiAtlas/oss-rdtr-zoning-mcp",
     "source": "github"
   },
-  "websiteUrl": "https://bumiatlas.com/mcp-docs",
+  "websiteUrl": "https://bumiatlas.com/mcp-docs/zoning",
   "remotes": [
     {
       "type": "streamable-http",
